@@ -1,0 +1,136 @@
+ev_id,narr_cause,actor_v2,actor_category
+20101109X12401,The pilot/mechanic’s improper inspection of the airplane following the engine installation.,mechanic,individual
+20230403106999,The flight instructor’s failure to maintain clearance from a commercial airliner which resulted in an encounter with wake turbulence and subsequent loss of control resulting in impact with terrain.,instructor,individual
+20130904X05544,"Maintenance personnel’s inadequate inspection and compliance with a Federal Aviation Administration airworthiness directive, which resulted in an undetected corroded and cracked stabilator turnbuckle and the subsequent failure of the turnbuckle and loss of elevator control during takeoff.
+",personnel,individual
+20180829X90853,"The pilot’s failure to maintain directional control during landing in gusting crosswind conditions.
+
+",pilot,individual
+20170813X81509,"The pilot’s exceedance of the biplane’s critical angle of attack during initial climb, which resulted in an aerodynamic stall and collision with trees.
+
+",pilot,individual
+20230112106566,The flight instructor’s failure to maintain control after a loss of engine power due to carburetor icing while maneuvering for forced landing in dark night visual meteorological conditions.,instructor,individual
+20211001104018,"The failure of the pilots onboard the airplane to see and avoid the helicopter while maneuvering in the traffic pattern, which resulted in a midair collision.",pilot,individual
+20250820200828,The flight instructors inadequate supervision of the flight and delayed remedial action and the pilot’s improper landing flare during which resulted in a hard landing.,pilot,individual
+20140718X83852,The pilot's inadequate approach and excessive airspeed which resulted in a long landing and subsequent runway overrun onto rough terrain.,pilot,individual
+20110502X54333,"The pilot's misjudgment of the landing area, which resulted in the airplane touching down on a grass area adjacent to the runway and between parallel taxiways.",pilot,individual
+20100324X51004,"The certificated mechanic's improper installation of a helicoil, which resulted in the separation of a sparkplug and the helicoil and led to a partial loss of engine power.",mechanic,individual
+20120207X34555,the driver's failure to ensure that the belt loader was clear of the airplane before turning.,driver,individual
+20180904X70853,"The pilot’s failure to maintain directional control during the landing roll.
+
+",pilot,individual
+20120905X42711,The pilot’s failure to maintain directional control during the landing roll.,pilot,individual
+20140617X55442,The pilot's failure to maintain aircraft control during an aborted landing due to an encounter with a tailwind.,pilot,individual
+20081020X05927,The pilot's failure to maintain clearance from a transmission wire.,pilot,individual
+20201007102111,"The pilot's failure to maintain terrain clearance after flying into the wrong canyon in mountainous terrain which resulted in a collision with trees and terrain.   
+",pilot,individual
+20130911X64815,An inadvertent collision with a deer during landing. ,deer,other
+20081003X65748,The total failure of a cylinder head assembly. Contributing to the accident was the lack of suitable terrain for a forced landing. ,assembly,mechanical
+20101210X72430,The pilot's failure to maintain clearance from a known wire hazard during an aerial observation flight.,pilot,individual
+20180417X23642,"A low-cycle fatigue crack in the dovetail of fan blade No. 13, which resulted in the fan blade separating in flight and impacting the engine fan case at a location that was critical to the structural integrity and performance of the fan cowl structure. This impact led to the in-flight separation of fan cowl components, including the inboard fan cowl aft latch keeper, which struck the fuselage near a cabin window and caused the window to depart from the airplane, the cabin to rapidly depressurize, and the passenger fatality.",blade,mechanical
+20230307106835,"The student pilot's failure to maintain control of the airplane during the landing roll and the flight instructor’s delayed remedial action, which resulted in an impact with an obstacle.",pilot,individual
+20190630X31613,"The pilot's failure to maintain directional control during landing in a gusting right quartering headwind, which resulted in a collapse of the left main landing gear.
+",pilot,individual
+20220510105059,"Loss of directional control during landing that resulted in an impact with terrain.
+",control,mechanical
+20190521X90550," The pilot's decision to land on soft, muddy terrain, which resulted in a nose over.
+",pilot,individual
+20241007195267,"A total loss of engine power in flight due to fuel starvation. Contributing to the accident was the inadequate preflight fuel planning by the student pilot and flight instructor, and the improper inflight fuel management by the student pilot.",power,mechanical
+20080319X00332,"The pilot's failure to maintain clearance from rising mountainous terrain, and his failure to turn toward his assigned course during initial climb. Contributing to the accident were the low ceiling, reduced visibility, dark night conditions, and rising mountainous terrain.",pilot,individual
+20120522X10407,"The partial loss of engine power during descent for reasons that could not be determined because postaccident examination of the engine did not reveal any anomalies that would have precluded normal operation. 
+
+",power,mechanical
+20150214X43614,"The total loss of engine power due to fuel exhaustion, which resulted from the pilot's inadequate preflight and in-flight fuel planning, which did not account for the increased headwind.
+
+ ",pilot,individual
+20160831X62719,"The failure of both pilots to see and avoid each other while in level cruise flight, which resulted in a midair collision. ",pilot,individual
+20250421200043,"The pilot’s inadequate inflight planning and an encounter with atmospheric conditions where the lift was not sufficient to maintain flight, resulting in an off-airport landing and collision with a fence.",pilot,individual
+20220701105407,"The pilot’s failure to maintain directional control during landing resulting in a runway excursion. 
+",pilot,individual
+20230831192977,"A loss of control, which resulted in the main rotor blade severing the tail boom, for reasons that could not be determined.",control,mechanical
+20170219X54712,"The pilot’s failure to maintain directional control during takeoff in crosswind conditions.
+
+",pilot,individual
+20181223X92508,"The pilot's failure to maintain directional control during landing. 
+",pilot,individual
+20090909X91951,"The pilot’s inadequate preflight planning and lack of familiarity with the airport diagram, which resulted in a runway excursion onto a grassy area.",pilot,individual
+20180820X05353,"The loss of engine power due to a torn intercooler hose that resulted in an overly rich fuel mixture, which, when combined with the pilot's activation of the auxiliary fuel pump, flooded the engine.",pilot,individual
+20120409X21232,"Failure of the current and previous operators to comply with the manufacturer's maintenance procedures for operation in sandy environments, which resulted in turbine case erosion and the subsequent uncontained engine failure.",manufacturer,organizational
+20110709X53314,"The pilot's excessive airspeed and failure to attain the proper landing point, which resulted in the airplane touching down too fast and too far down the short runway. Contributing to the accident was the pilot's failure to retract the flaps after landing, which resulted in delayed brake activation, the pilot’s decision to land on a runway with an insufficient safety margin for the landing conditions, and the pilot’s failure to use the emergency brake lever.",pilot,individual
+20090628X13313,"The pilot's failure to maintain clearance from trees during a go-around. Contributing to the accident was the pilot's lack of flight experience, and his delayed initiation of a go-around.",pilot,individual
+20121120X11727,"The pilot’s improper landing flare, which resulted in the collapse of the nose landing gear and the airplane nosing over.",pilot,individual
+20120727X33919,"The loss of engine power due to fuel starvation, which resulted from the fuel tank supply pickup becoming unported while the helicopter was pulling power lines.",power,mechanical
+20100913X43446,The pilot's inadequate compensation for the gusty crosswind condition and his failure to maintain directional control.,pilot,individual
+20201103102233,"A loss of control for reasons that could not be determined based on the available evidence.
+",control,mechanical
+20090804X23219,A partial loss of engine power for undetermined reasons.,power,mechanical
+20130808X70819,"A fatigue failure of an engine compressor turbine blade, which resulted in extensive secondary engine damage and a complete loss of engine power.",blade,mechanical
+20220105104493,"The pilot’s failure to extend the landing gear before landing. 
+",pilot,individual
+20150507X30300,The pilot and flight instructor's inadvertent encounter with settling with power during a confined area takeoff at an altitude that was too low for recovery.,instructor,individual
+20210403102859,"The student pilot’s improper landing flare which resulted in a hard landing, loss of directional control and subsequent nose over. 
+",pilot,individual
+20140625X22501,The failure of an oil line leading to the oil pressure transducer which resulted in oil starvation and subsequent loss of engine power.,line,mechanical
+20151228X02331,"The airplane’s impact with a hillside shortly after takeoff for reasons that could not be determined.
+",airplane,mechanical
+20140717X83457,The pilot's failure to maintain sufficient airspeed and his delayed application of engine power while on short final which resulted in a hard landing.,pilot,individual
+20120726X81042,"The operation of an unregistered and unairworthy airplane by a non-certificated pilot. Contributing to the accident was the non-certificated pilot’s improper preflight inspection, which resulted in a total loss of engine power due to water/debris contamination in the fuel.",pilot,individual
+20240207193756,"The pilot's failure to lower the airplane's landing gear prior to landing, which resulted in abnormal runway contact.",pilot,individual
+20100430X01718,A main landing gear collapse during the landing roll due to fatigue cracking and corrosion of the strut.,strut,mechanical
+20210629103374,"The flight instructor’s exceedance of the airplane’s critical angle of attack, which resulted in an aerodynamic stall during the landing approach.",instructor,individual
+20211216104411,"The airplane’s encounter with moderate clear air turbulence which resulted in a serious injury to one unrestrained passenger. 
+",airplane,mechanical
+20180507X30956,"The pilot's failure to slow the gyroplane and maintain control while exiting the runway.
+",pilot,individual
+20170424X62153,"The total loss of engine power for reasons that could not be determined because an examination of the engine and a test run did not reveal any mechanical malfunctions or failures that would have precluded normal operation.
+ 
+",power,mechanical
+20151024X21235,"A total loss of engine power during the initial climb due to a fatigue failure of the engine's crankshaft. Contributing to the accident was the pilot's failure to maintain control of the airplane, which resulted in an aerodynamic stall.",engine,mechanical
+20100415X45958,The pilot's failure to maintain directional control after electing to land on a snow-covered runway.,pilot,individual
+20170918X13400,"The pilot’s failure to maintain directional control while landing in gusting wind conditions.
+
+",pilot,individual
+20230322106933,An encounter with forecast convective turbulence during climb.,turbulence,other
+20110828X55900,The pilot's loss of directional control for undetermined reasons.,pilot,individual
+20150506X00432,"The flight instructor's delayed flare during a simulated auto rotation, which resulted in a tail rotor strike and rollover.",instructor,individual
+20230802192780,The pilot’s failure to maintain direction control during the landing roll.,pilot,individual
+20230509122569,"The right rear-seat passenger’s improper judgement to release his restraint system and depart the helicopter while in a hover, which resulted in him sustaining serious injuries. Contributing to the accident was his impairment from effects of alcohol consumption.",consumption,other
+20100701X20251,The student pilot's failure to maintain directional control during a crosswind landing.,pilot,individual
+20220928106011,The pilot’s improper landing flare which resulted in a bounced landing.,pilot,individual
+20190628X75828,"The pilot's improper landing flare, which resulted in a hard landing, subsequent loss of directional control, runway excursion, and ground-loop.",pilot,individual
+20111209X33611,A loss of engine power during takeoff for reasons that could not be determined because postaccident examination and testing did not reveal any anomalies that would have precluded normal operation.,power,mechanical
+20090625X92045,"A partial loss of engine power due to propeller damage from being struck by the cabin-entry door, which inadvertently opened and departed the airframe for undetermined reasons during flight.",power,mechanical
+20130919X04513,"The pilot's inadequate preflight fuel planning, which resulted in departure with insufficient fuel to complete the flight, and consequent inflight power loss due to fuel exhaustion.",pilot,individual
+20120826X82523,"The student pilot's impairment from alcohol, marijuana, and hypoxia, which adversely affected his ability to maintain control of the airplane.",pilot,individual
+20111018X10410,"The separation of the number 2 connecting rod from the crankshaft for reasons that could not be determined during postaccident metallurgical examination, which ultimately resulted in a total loss of engine power.",rod,mechanical
+20110826X90829,"The pilot’s lack of recognition that the engine was being supplied fuel from only the right tank with the fuel selector in the both position, which resulted in the total loss of engine power due to fuel starvation. Contributing to the accident was the blockage of the left fuel tank supply line.
+ ",pilot,individual
+20231215193529,"The local controller’s loss of situational awareness, inadequate provision of traffic advisory or safety alert information, and lack of positive control, that resulted in a near-midair collision.",controller,individual
+20130603X31523,The pilot's distracted attention while on final approach which resulted in his failure to maintain adequate airspeed and subsequent loss of aircraft control.,pilot,individual
+20250626200394,"The pilot’s failure to maintain adequate airspeed while in a turn during initial climb and the exceedance of the airplane’s critical angle of attack, which resulted in an aerodynamic stall at a low altitude.",pilot,individual
+20140828X31107,The pilot did not maintain control of the airplane during takeoff from a grass strip. Contributing was the airplane being loaded beyond its capability for the runway.,airplane,mechanical
+20211101104185,"The pilot’s improper pre-flight fuel planning, which resulted in a total loss of engine power to both engines due to fuel exhaustion.",pilot,individual
+20130806X31354,"The flight crew's failure to execute a go-around during a non-stabilized approach, which resulted in a runway overrun. ",crew,individual
+20170810X14916," 
+A total loss of engine power due to the fracture of a single 1st stage compressor rotor airfoil in high-cycle fatigue as a result of the erosion and thinning of the airfoil's leading edge. Contributing to the fractured airfoil and loss of engine power was the operator’s decision to operate the engine past the manufacturer’s recommended time between overhaul.
+",airfoil,other
+20250823200843,The pilot’s failure to maintain clearance from terrain while maneuvering at low altitude.,pilot,individual
+20190922X10702,"The pilot's delayed decision to abort the takeoff from water after the airplane impacted a submerged object, which resulted in insufficient airspeed for liftoff and led to the pilot steering the airplane toward a mud embankment to avoid rocks. 
+",pilot,individual
+20250812200768,"The pilot’s failure to obtain a proper touchdown point while attempting to land on a very short and rough turf runway, which resulted in a runway overrun and collision with vegetation and terrain.",pilot,individual
+20080403X00421,The failure of both pilots to maintain directional control of the airplane during takeoff.,pilot,individual
+20080508X00631,The pilot's failure to remove the rudder gust lock prior to the flight.,pilot,individual
+20211105104205,A total loss of engine power due to the failure of the carburetor float assembly.,power,mechanical
+20201009102123,"The pilot’s failure to maintain airplane control and improper recovery from an unusual attitude, which resulted in an in-flight breakup. 
+",pilot,individual
+20140926X33317,"The pilot's failure to maintain directional control during landing roll in gusty wind conditions, which resulted in a runway excursion and collision with terrain.",pilot,individual
+20230717192644,"A failure of the right brake caliper bolts during landing, which resulted in a runway excursion and subsequent impact with terrain.",brake,mechanical
+20120905X45522,"An unlocking of the excessively worn tailwheel lock mechanism, which resulted in a loss of directional control during landing.",mechanism,other
+20240102193582,The nose landing gear collapse and postimpact fire due to undetermined reasons.,collapse,other
+20231005193195,"The pilot’s improper landing flare, which resulted in a hard landing.",pilot,individual
+20210118102529,"The pilot’s mismanagement of the fuel supply, which resulted in fuel starvation. 
+",pilot,individual
+20081107X83550,"The pilot's failure to maintain the proper glidepath during an instrument-landing-system (ILS) approach. Contributing to the accident were the pilot's decision to initiate the ILS approach with weather below the published minimums, and the pilot's self-induced pressure to expeditiously transport an organ recipient to a hospital.",pilot,individual
+20110815X11710,"The pilot's improper decision to conduct low-level flight along a river, which resulted in a collision with power lines.",pilot,individual
+20230205106680,"the local controller’s incorrect assumption that the Southwest Airlines (SWA) airplane would depart from the runway before the Federal Express airplane arrived on the same runway, which resulted in a loss of separation between both airplanes. Contributing to the controller’s incorrect assumption were his expectation bias regarding the SWA airplane’s departure, his lack of situational awareness regarding the SWA airplane’s position when the flight crew requested takeoff clearance, and the air traffic control tower’s lack of training (before the incident) on low visibility operations. Contributing to the incident was the SWA flight crewmembers’ failure to account for the traffic that was on short final approach and to notify the controller that they would need additional time on the runway before the takeoff roll. Also contributing to the incident was the Federal Aviation Administration’s failure to require surface detection equipment at Austin-Bergstrom International Airport and direct alerting for flight crews.",controller,individual
+20210927103962,"The pilot’s improper flare, which led to a hard landing, subsequent loss of control, and collision with trees.",pilot,individual
