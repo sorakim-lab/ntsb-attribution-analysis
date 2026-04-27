@@ -41,17 +41,12 @@ Two methods, two units — same finding.
 
 ## Repository Structure
 
-​```
-ntsb-attribution-analysis/
-├── notebooks/
-│   ├── 01_ntsb_phase_a.ipynb         (Coding-level analysis)
-│   └── 02_ntsb_phase_b.ipynb         (Grammatical-level analysis)
-├── figures/                          (Paper-quality visualizations)
-└── data/
-    ├── phase_b_actors_v2.csv         (Extracted actors per cause statement)
-    ├── phase_b_temporal.csv          (Temporal distribution)
-    └── phase_b_severity.csv          (Severity distribution)
-​```
+- `notebooks/01_ntsb_phase_a.ipynb` — Coding-level analysis
+- `notebooks/02_ntsb_phase_b.ipynb` — Grammatical-level analysis
+- `figures/` — Paper-quality visualizations
+- `data/phase_b_actors_v2.csv` — Extracted actors per cause statement
+- `data/phase_b_temporal.csv` — Temporal distribution
+- `data/phase_b_severity.csv` — Severity distribution
 
 ## Data
 
@@ -75,9 +70,8 @@ The database is not redistributed in this repository (~546 MB). All findings rep
 ## Citation
 
 If you reference this work, please cite as:
-Kim, S. (2026). NTSB attribution analysis: Coding-level and grammatical-level evidence of
-organizational accountability displacement. GitHub repository.
-https://github.com/sorakim-lab/ntsb-attribution-analysis
+
+Kim, S. (2026). *NTSB attribution analysis: Coding-level and grammatical-level evidence of organizational accountability displacement.* GitHub repository. https://github.com/sorakim-lab/ntsb-attribution-analysis
 
 ## Contact
 
