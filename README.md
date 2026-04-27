@@ -40,3 +40,42 @@ The two phases use independent methods and units of analysis but converge on the
 Two methods, two units — same finding.
 
 ## Repository Structure
+ntsb-attribution-analysis/
+├── notebooks/
+│   ├── 01_ntsb_phase_a.ipynb         # Coding-level analysis
+│   └── 02_ntsb_phase_b.ipynb         # Grammatical-level analysis
+├── figures/                          # Paper-quality visualizations
+└── data/
+    ├── phase_b_actors_v2.csv         # Extracted actors per cause statement
+    ├── phase_b_temporal.csv          # Temporal distribution
+    └── phase_b_severity.csv          # Severity distribution
+
+## Data
+
+The primary data source is the NTSB Aviation Accident Database (`avall.mdb`), publicly available at:
+
+- https://www.ntsb.gov/Pages/AviationDownloadDataFiles.aspx
+
+The database is not redistributed in this repository (~546 MB). All findings reported here are reproducible by downloading the database directly from NTSB.
+
+## Methods
+
+- **Phase A:** Direct queries against the Findings table joined with the events table. Cause/Factor flags compared across category codes (01 Aircraft, 02 Personnel, 03 Environmental, 04 Organizational). Chi-square tests of independence with standardized residuals for cell-level significance.
+- **Phase B:** spaCy `en_core_web_sm` (v3.8.0) dependency parsing of `narr_cause` field. Actor extraction via `poss` and prepositional `of` patterns, filtered against an action-noun blocklist and categorized via human / mechanical / organizational / other whitelists. Manual validation on n = 100 random sample yielded approximately 91% extraction accuracy; errors disproportionately affected the smallest categories.
+
+## Limitations
+
+- Phase A's classification regime change (2019 onward) limits direct longitudinal comparison; clean-window analyses use 2008–2018.
+- Phase B extraction has known failure modes for compound-subject statements ("pilot and instructor's failure...") and for statements with no human or organizational agent ("loss of engine power"). The ~91% accuracy estimate from manual validation is reflected throughout.
+- This work analyzes NTSB outputs only. Future work integrates NTSB CAROL recommendations (n = 5,240, downloaded but not analyzed in this repository) and FAA response correspondence to examine the full regulatory cycle.
+
+## Citation
+
+If you reference this work, please cite as:
+Kim, S. (2026). NTSB attribution analysis: Coding-level and grammatical-level evidence of
+organizational accountability displacement. GitHub repository.
+https://github.com/sorakim-lab/ntsb-attribution-analysis
+
+## Contact
+
+Sora Kim — [sorakim-lab.github.io](https://sorakim-lab.github.io)
