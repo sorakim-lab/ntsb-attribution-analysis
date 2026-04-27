@@ -40,15 +40,18 @@ The two phases use independent methods and units of analysis but converge on the
 Two methods, two units — same finding.
 
 ## Repository Structure
+
+​```
 ntsb-attribution-analysis/
 ├── notebooks/
-│   ├── 01_ntsb_phase_a.ipynb         # Coding-level analysis
-│   └── 02_ntsb_phase_b.ipynb         # Grammatical-level analysis
-├── figures/                          # Paper-quality visualizations
+│   ├── 01_ntsb_phase_a.ipynb         (Coding-level analysis)
+│   └── 02_ntsb_phase_b.ipynb         (Grammatical-level analysis)
+├── figures/                          (Paper-quality visualizations)
 └── data/
-    ├── phase_b_actors_v2.csv         # Extracted actors per cause statement
-    ├── phase_b_temporal.csv          # Temporal distribution
-    └── phase_b_severity.csv          # Severity distribution
+    ├── phase_b_actors_v2.csv         (Extracted actors per cause statement)
+    ├── phase_b_temporal.csv          (Temporal distribution)
+    └── phase_b_severity.csv          (Severity distribution)
+​```
 
 ## Data
 
